@@ -25,7 +25,7 @@ Download [latest version].
 		Click on update and then click on start.
 		Minimize the software and start any game you want to play.
 
-		
+6. If your window is x64 bit then copy all dll files from x64 folder and put them with multikeys.exe file.		
 		
  Requirements
 	Windows xp, 7, 8, 8.1, 10
