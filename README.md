@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 MultiKeys for WIndows
 =======================
 
@@ -54,3 +55,11 @@ MIT
 [Shaul Eizikovich]: 	https://sourceforge.net/u/userid-1374741/profile/
 [Visual Studio 2015]: 	https://www.visualstudio.com/downloads/
 [.NET Framework 4.6.2 Developer Pack]: https://www.microsoft.com/download/details.aspx?id=53321
+=======
+# MultiKeys
+A .net software to connect 2 keyboards to windows PC, and play multiplayer games without joystick.
+
+using vjoy drivers for joystick virtualization
+
+*Not yet ready to use
+>>>>>>> 1fe2492f875badb800bc83a701a51b1da742024f
