@@ -1,4 +1,4 @@
-MultiKeys for WIndows
+MultiKeys for Windows
 =======================
 
 Wants to play multiplayer games like FIFA, EA Sports Cricket 07, WWE, Tekken 
@@ -9,7 +9,8 @@ Multiplayer games without any conflicts between two keyboards.
 
 #### Download
 
-Download [latest version]  *Stable version is not yet ready to downlaod.
+Download [latest version].
+  *Stable version is not yet ready to downlaod.
 
 #### How to use
 1. Download the [latest version].
@@ -21,7 +22,7 @@ Download [latest version]  *Stable version is not yet ready to downlaod.
 	add a new device with 8 buttons and x,y,z axis.
 5. open multikeys.exe, click on Free. Then press any key on
 	your 2nd keyboard to get keyboard id and put that id number in kbdid.
-		Click on update and then start.
+		Click on update and then click on start.
 		Minimize the software and start any game you want to play.
 
 		
@@ -32,7 +33,7 @@ Download [latest version]  *Stable version is not yet ready to downlaod.
 	An aditional keyboard preferably with USB port.
 	
 #### Wants to Contribute to Project
-	#### some things to read first
+	 some things to read first
 	
 	[SDK] for vjoy drivers by [Shaul Eizikovich]
 	[documentation] for  kernel hotkey by http://yorick.oblita.com
@@ -53,11 +54,3 @@ MIT
 [Shaul Eizikovich]: 	https://sourceforge.net/u/userid-1374741/profile/
 [Visual Studio 2015]: 	https://www.visualstudio.com/downloads/
 [.NET Framework 4.6.2 Developer Pack]: https://www.microsoft.com/download/details.aspx?id=53321
-=======
-# MultiKeys
-A .net software to connect 2 keyboards to windows PC, and play multiplayer games without joystick.
-
-using vjoy drivers for joystick virtualization
-
-*Not yet ready to use
->>>>>>> 1fe2492f875badb800bc83a701a51b1da742024f
