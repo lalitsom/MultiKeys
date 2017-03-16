@@ -33,9 +33,10 @@ Download [latest version].
 	An aditional keyboard preferably with USB port.
 	
 #### Wants to Contribute to Project
- some things to read first	
-[SDK] for vjoy drivers by [Shaul Eizikovich]
-[documentation] for  kernel hotkey by http://yorick.oblita.com
+ some things to read first.
+ [SDK] for vjoy drivers by [Shaul Eizikovich].
+[documentation] for  kernel hotkey by http://yorick.oblita.com.
+
 
 
 #### Develop
