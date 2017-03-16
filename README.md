@@ -27,16 +27,15 @@ Download [latest version].
 
 		
 		
-##### Requirements
+ Requirements
 	Windows xp, 7, 8, 8.1, 10
 	.Net Framework 4.0 or above
 	An aditional keyboard preferably with USB port.
 	
 #### Wants to Contribute to Project
-	 some things to read first
-	
-	[SDK] for vjoy drivers by [Shaul Eizikovich]
-	[documentation] for  kernel hotkey by http://yorick.oblita.com
+ some things to read first	
+[SDK] for vjoy drivers by [Shaul Eizikovich]
+[documentation] for  kernel hotkey by http://yorick.oblita.com
 
 
 #### Develop
