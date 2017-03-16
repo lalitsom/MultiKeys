@@ -14,3 +14,19 @@ c:\users\lalit\documents\visual studio 2015\Projects\MultiKeys\MultiKeys\obj\Deb
 c:\users\lalit\documents\visual studio 2015\Projects\MultiKeys\MultiKeys\obj\Debug\MultiKeys.csproj.GenerateResource.Cache
 c:\users\lalit\documents\visual studio 2015\Projects\MultiKeys\MultiKeys\obj\Debug\MultiKeys.exe
 c:\users\lalit\documents\visual studio 2015\Projects\MultiKeys\MultiKeys\obj\Debug\MultiKeys.pdb
+C:\Users\Lalit\Documents\GitHub\MultiKeys\MultiKeys\bin\Debug\MultiKeys.exe.config
+C:\Users\Lalit\Documents\GitHub\MultiKeys\MultiKeys\obj\Debug\MultiKeys.exe
+C:\Users\Lalit\Documents\GitHub\MultiKeys\MultiKeys\obj\Debug\MultiKeys.pdb
+C:\Users\Lalit\Documents\GitHub\MultiKeys\MultiKeys\bin\Debug\MultiKeys.exe
+C:\Users\Lalit\Documents\GitHub\MultiKeys\MultiKeys\bin\Debug\MultiKeys.pdb
+C:\Users\Lalit\Documents\GitHub\MultiKeys\MultiKeys\bin\Debug\KernelHotkey.dll
+C:\Users\Lalit\Documents\GitHub\MultiKeys\MultiKeys\bin\Debug\vJoyInterfaceWrap.dll
+C:\Users\Lalit\Documents\GitHub\MultiKeys\MultiKeys\obj\Debug\MultiKeys.csprojResolveAssemblyReference.cache
+C:\Users\Lalit\Documents\GitHub\MultiKeys\MultiKeys\obj\Debug\MainWindow.g.cs
+C:\Users\Lalit\Documents\GitHub\MultiKeys\MultiKeys\obj\Debug\App.g.cs
+C:\Users\Lalit\Documents\GitHub\MultiKeys\MultiKeys\obj\Debug\MultiKeys_MarkupCompile.cache
+C:\Users\Lalit\Documents\GitHub\MultiKeys\MultiKeys\obj\Debug\MultiKeys_MarkupCompile.lref
+C:\Users\Lalit\Documents\GitHub\MultiKeys\MultiKeys\obj\Debug\MainWindow.baml
+C:\Users\Lalit\Documents\GitHub\MultiKeys\MultiKeys\obj\Debug\MultiKeys.g.resources
+C:\Users\Lalit\Documents\GitHub\MultiKeys\MultiKeys\obj\Debug\MultiKeys.Properties.Resources.resources
+C:\Users\Lalit\Documents\GitHub\MultiKeys\MultiKeys\obj\Debug\MultiKeys.csproj.GenerateResource.Cache

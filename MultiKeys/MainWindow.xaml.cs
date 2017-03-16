@@ -84,7 +84,10 @@ namespace MultiKeys
         }
 
 
-
+        private void feedback_button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Wants to give any feedback, report a bug or need a new feature, mail me at lalitsom27@gmail.com  :)");
+        }
 
 
         // functions ...................

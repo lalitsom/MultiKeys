@@ -10,6 +10,7 @@
         <Button x:Name="free_button" Content="Free" Click="free_button_Click" HorizontalAlignment="Left" Margin="10,288,0,0" VerticalAlignment="Top" Width="74" RenderTransformOrigin="-0.432,3.182"/>
         <Button x:Name="start_button" Content="Start" HorizontalAlignment="Left" Margin="132,288,0,0" VerticalAlignment="Top" Width="74" RenderTransformOrigin="-0.432,3.182" Click="start_button_Click"/>
         <Button x:Name="update_button" Content="Update" HorizontalAlignment="Left" Margin="244,288,0,0" VerticalAlignment="Top" Width="74" RenderTransformOrigin="-0.432,3.182" Click="update_button_Click"/>
+        <Button x:Name="feedback_button" Content="Feedback" HorizontalAlignment="Left" Margin="354,288,0,0" VerticalAlignment="Top" Width="74" RenderTransformOrigin="-0.432,3.182" Click="feedback_button_Click"/>
         <TextBlock x:Name="x_left" Text="left" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap"  VerticalAlignment="Top"/>
         <TextBox x:Name="x_inleft" Text="75" HorizontalAlignment="Left" Height="23" Margin="86,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="48"/>
         <TextBlock x:Name="x_right" Text="right" HorizontalAlignment="Left" Margin="10,40,0,0" TextWrapping="Wrap"  VerticalAlignment="Top"/>
