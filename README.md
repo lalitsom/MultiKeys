@@ -34,8 +34,12 @@ Download [latest version].
 	
 #### Wants to Contribute to Project
  some things to read first.
+ 
+ 
  [SDK] for vjoy drivers by [Shaul Eizikovich].
-[documentation] for  kernel hotkey by http://yorick.oblita.com.
+ 
+ 
+ [Documentation] for  kernel hotkey by http://yorick.oblita.com.
 
 
 
