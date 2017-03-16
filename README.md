@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 MultiKeys for WIndows
 =======================
 
@@ -10,8 +9,7 @@ Multiplayer games without any conflicts between two keyboards.
 
 #### Download
 
-Download [latest version]
-*Stable version is not yet ready to downlaod.
+Download [latest version]  *Stable version is not yet ready to downlaod.
 
 #### How to use
 1. Download the [latest version].
