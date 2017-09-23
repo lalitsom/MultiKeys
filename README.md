@@ -1,4 +1,4 @@
-MultiKeys for Windows
+MultiKeys for Windows  [![Code Triagers Badge](https://www.codetriage.com/lalitsom/multikeys/badges/users.svg)](https://www.codetriage.com/lalitsom/multikeys)
 =======================
 
 Wants to play multiplayer games like FIFA, EA Sports Cricket 07, WWE, Tekken 
